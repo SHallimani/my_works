@@ -1,0 +1,6 @@
+1. http://brainscraps.wikia.com/wiki/Setup_Gateway_Routing_On_Multiple_Network_Interfaces
+2. http://coderazzi.net/linux/dual_nic_linux.htm
+3. https://serverfault.com/questions/323377/to-use-two-ethernet-ports-with-the-same-subnet-problems-with-ip
+4. https://serverfault.com/questions/22253/ubuntu-linux-multiple-nics-same-lan-arp-responses-always-go-out-a-single-n/30648#30648
+5. https://www.linuxquestions.org/questions/linux-networking-3/multiple-interfaces-all-traffic-flows-through-just-one-538701/
+6. https://www.lisenet.com/2014/create-and-attach-a-second-elastic-network-interface-with-eip-to-ec2-vpc-instance/#comment-105
