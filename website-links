@@ -8,3 +8,7 @@
 8. http://tldp.org/HOWTO/Adv-Routing-HOWTO/lartc.rpdb.multiple-links.html
 9. https://linuxconfig.org/how-to-setup-a-static-ip-address-on-debian-linux
 10. https://www.howtoforge.com/debian-static-ip-address
+11. http://z-issue.com/wp/linux-rhel-6-centos-6-two-nics-in-the-same-subnet-but-secondary-doesnt-ping/ [ perfect ]
+12. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=140981
+13. https://serverfault.com/questions/336021/two-network-interfaces-and-two-ip-addresses-on-the-same-subnet-in-linux
+14. https://forums.fedoraforum.org/showthread.php?t=261114
